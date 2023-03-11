@@ -1,0 +1,30 @@
+{
+  "name": "koi-cli",
+  "version": "1.0.0",
+  "description": "CLI help vue development",
+  "main": "index.js",
+  "bin": {
+    "koi": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aladingzl/Koi-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aladingzl/Koi-cli/issues"
+  },
+  "homepage": "https://github.com/aladingzl/Koi-cli#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^10.0.0",
+    "download-git-repo": "^3.0.2",
+    "ejs": "^3.1.8",
+    "open": "^8.4.2"
+  }
+}
